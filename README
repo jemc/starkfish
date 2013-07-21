@@ -1,0 +1,14 @@
+= Starkfish
+
+An aesthetically revised template for darkfish, the rdoc documentation generator for ruby.
+
+== How do I get it?
+
+gem install starkfish
+
+== What's in it?
+
+Within lib/rdoc/generator/template/, a new starkfish template is created 
+alongside the darkfish template.  The template is essentially a copy of 
+the darkfish template with the visual changes I wanted.  These changes are 
+mostly concentrated within rdoc.css.
