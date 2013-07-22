@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'starkfish'
-  s.version       = '0.1.0' 
+  s.version       = '0.2.0' 
   s.date          = '2013-07-20'
   s.summary       = "starkfish"
   s.description   = "An aesthetically revised template for darkfish,"\
