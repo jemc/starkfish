@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name          = 'starkfish'
-  s.version       = '0.2.0' 
-  s.date          = '2013-07-20'
+  s.version       = '0.2.1' 
+  s.date          = '2013-07-22'
   s.summary       = "starkfish"
   s.description   = "An aesthetically revised template for darkfish,"\
                     "the rdoc documentation generator for ruby."
